@@ -25,4 +25,5 @@ $ wget https://github.com/EvaGeorg/RotDecrypt/blob/master/rotdecrypt.py
 ```
 
 
-@author: Eva Georgieva, May, 12, 2020
+
+@author: Eva Georgieva, May 12, 2020
