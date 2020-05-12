@@ -24,6 +24,11 @@ To install the tool you can use the **wget** and type the following command in t
 $ wget https://github.com/EvaGeorg/RotDecrypt/blob/master/rotdecrypt.py
 ```
 
+<h2>License</h2> 
+
+Copyright 2020 - Eva Georgieva
+
+This tool is available for anyone to use it free of charge.
 
 
-@author: Eva Georgieva, May 12, 2020
+
