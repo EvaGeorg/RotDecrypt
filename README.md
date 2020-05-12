@@ -24,3 +24,5 @@ To install the tool you can use the **wget** and type the following command in t
 $ wget https://github.com/EvaGeorg/RotDecrypt/blob/master/rotdecrypt.py
 ```
 
+
+@author: Eva Georgieva, May, 12, 2020
