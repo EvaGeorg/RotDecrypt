@@ -17,3 +17,10 @@ To be able to use RotDecrypt you need to have python3.8 installed on your system
 and usage you can find [here](https://www.python.org/)
 
 
+<h2>Install</h2> 
+
+To install the tool you can use the **wget** and type the following command in terminal
+```
+$ wget https://github.com/EvaGeorg/RotDecrypt/blob/master/rotdecrypt.py
+```
+
