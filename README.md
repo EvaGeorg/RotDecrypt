@@ -4,8 +4,8 @@ RotDecrypt is a tool for decrypting text encrypted with basic rotation algorithm
 <h2>Usage</h2> 
 
 Using RotDecrypt is very simple since all you need to do is pass the file that you want to decrypt as a first parameter
-and then the tool generates 26 files, tries all the possible rotations, since whatever the number of rotations is it
-calculates mod 26.
+and then the tool generates 26 files, tries all the possible rotations, since whatever the number of rotations is, it
+calculates mod 26 from it.
 
 ```
 $ python rotdecrypt.py file.txt
